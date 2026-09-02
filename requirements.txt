@@ -24,6 +24,7 @@ wikipedia
 langchainhub
 validators
 youtube_transcript_api
+duckduckgo-search
 unstructured
 pytube
 numexpr
